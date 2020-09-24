@@ -4,3 +4,13 @@ h1 {
     font-style:italic ;
     text-size-adjust: 30px;
 }
+p {
+    font-size:7mm ;
+}
+body {
+    background-color: lightgoldenrodyellow;
+}
+ul {
+    font-size: 5mm;
+    color: rgb(23, 122, 10);
+}
