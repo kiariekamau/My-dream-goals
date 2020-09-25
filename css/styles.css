@@ -3,14 +3,33 @@ h1 {
     text-align: center;
     font-style:italic ;
     text-size-adjust: 30px;
+    font-size: 10mm;
+}
+.important {
+    color: rgb(3, 119, 3);
+}
+.important img {
+    padding-left: 30%;
+    width: 200mm;
+    height: 100mm;
 }
 p {
     font-size:7mm ;
+}
+img {
+    padding-left: 10%;
 }
 body {
     background-color: lightgoldenrodyellow;
 }
 ul {
     font-size: 5mm;
-    color: rgb(23, 122, 10);
+    color: rgba(182, 5, 5, 0.856);
+}
+.details {
+    color: rgb(104, 103, 103);
+}
+.life-hacks {
+    font-style: oblique;
+    color: rgb(13, 162, 189);
 }
